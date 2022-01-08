@@ -1,3 +1,3 @@
 # Yolo
 
-This Script Making using trained Yolo model very easy.
+This Script makes using trained Yolo model very easy. 
