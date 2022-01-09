@@ -10,6 +10,7 @@ By using the testcuda script you could found out if your cuda and cudnn is insta
 Net.Init(cuda = True)
 ````
 
+**This is what you could expect within 24 lines of codes**
 
 ![image](https://github.com/jj98-hub/Yolo/blob/26cdbba7c40198388f1417423329e80b16a54da8/DemoOutput.gif)
 
