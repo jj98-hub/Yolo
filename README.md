@@ -11,6 +11,6 @@ Net.Init(cuda = True)
 ````
 
 
-![ Alt text](DemoOutput. gif) / ! [](DemoOutput. gif)
+![image](https://github.com/jj98-hub/Yolo/blob/26cdbba7c40198388f1417423329e80b16a54da8/DemoOutput.gif)
 
 Try it out and have fun
