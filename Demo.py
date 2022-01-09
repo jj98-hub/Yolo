@@ -3,9 +3,6 @@ import cv2
 import numpy as np
 import time
 
-wTarget = 320
-hTarget = 320
-
 # define yolo as a YoloDetector Object
 yolo = YoloDetector()
 yolo.modelConfig = "yoloDemo/yolov3.cfg"
