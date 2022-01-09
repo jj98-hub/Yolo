@@ -10,4 +10,7 @@ By using the testcuda script you could found out if your cuda and cudnn is insta
 Net.Init(cuda = True)
 ````
 
+
+![ Alt text](DemoOutput. gif) / ! [](DemoOutput. gif)
+
 Try it out and have fun
