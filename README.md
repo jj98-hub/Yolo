@@ -6,6 +6,7 @@ The weight file and config file in the Demo file are downloaded from https://pjr
 
 By using the testcuda script you could found out if your cuda and cudnn is install correctly. If you cude is installed, you can also enable you gpu in the detection process by simply typing
 
+
 ````
 Net.Init(cuda = True)
 ````
