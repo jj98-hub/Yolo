@@ -4,7 +4,7 @@ This script is based on the Yolo v3/v4 series. Since it is quite complicated for
 
 The weight file and config file in the Demo file are downloaded from https://pjreddie.com/darknet/yolo/ 
 
-By using the testcuda script you could found out if your cuda and cudnn is install correctly. If you cude is installed, you can also enable you gpu in the detection process by simply typing
+By using the testcuda script you could found out if your cuda and cudnn is install correctly. If you cuda is installed, you can also enable you gpu in the detection process by simply typing
 
 
 ````
